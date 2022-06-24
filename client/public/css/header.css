@@ -1,0 +1,33 @@
+.slide-menu .menu-wrap {
+    background: rgb(205, 203, 203);
+}
+
+.slide-menu .menu-wrap .menu-wrap-header {
+    color: rgb(39, 36, 36);
+    display: flex;
+    border-bottom: 1px solid red;
+    margin-top: 0%;
+    padding-bottom: 15px;
+}
+
+.slide-menu .menu-wrap .menu-wrap-header .hearth {
+    position: relative;
+    width: 100%;
+    font-size: 32px;
+    margin-right: 15px;
+    text-align: right;
+    color: rgb(193, 174, 174);
+}
+
+.slide-menu .menu-wrap .menu-list {
+    padding-right: 15px;
+}
+
+.slide-menu .menu-wrap .menu-list li {
+    padding-bottom: 2px;
+}
+
+.slide-menu .menu-wrap .menu-list a {
+    border: 1px solid rgb(248, 242, 242);
+    padding: 2px;
+}
